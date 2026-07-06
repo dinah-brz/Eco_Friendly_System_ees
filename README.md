@@ -75,6 +75,20 @@ Eco-Events-Management-System/
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Event Management
+![Event Management](events.png)
+
+### Database Design
+![Database](database.png)
+
 ## Author
 
 **Dinah Zame**
