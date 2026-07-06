@@ -2,66 +2,121 @@
 
 ## Overview
 
-The Eco Events Management System is a web-based application designed to support the planning and management of environmentally sustainable events. The system enables event organizers to manage events, vendors, attendees, and sustainability metrics through an integrated platform.
+The Eco Events Management System is a web-based application developed to support the planning and management of environmentally sustainable events. The system enables event organizers to create and manage events, register attendees, coordinate vendors, and monitor sustainability metrics through a centralized platform.
 
-This project was developed as part of my Bachelor of Information Technology studies and demonstrates software development, database design, and problem-solving skills.
+This project was developed as part of my Bachelor of Science in Information Technology degree and demonstrates practical skills in software development, database design, and full-stack web application development.
 
 ---
 
 ## Problem Statement
 
-Traditional event management systems often overlook environmental sustainability. This project addresses that challenge by providing tools to organize events while tracking eco-friendly practices and resource usage.
+Many traditional event management systems focus only on organizing events and often overlook environmental sustainability. This project addresses that challenge by providing an event management solution that promotes eco-friendly planning while helping organizers track sustainability initiatives and resource usage.
+
+---
+
+## Objectives
+
+* Develop an easy-to-use event management platform.
+* Improve event planning and organization.
+* Manage vendors and attendees efficiently.
+* Promote environmentally sustainable event planning.
+* Store and manage event information using a relational database.
+* Generate reports to support decision-making.
 
 ---
 
 ## Features
 
-* User authentication
-* Event creation and management
-* Vendor management
-* Attendee registration
-* Sustainability tracking
-* Resource management
-* Reporting and data management
+* User Registration and Authentication
+* Event Creation and Management
+* Vendor Management
+* Attendee Registration
+* Sustainability Tracking
+* Resource Management
+* Report Generation
+* Database Integration
 
 ---
 
 ## Technologies Used
 
 * C#
-* ASP.NET
-* HTML
-* CSS
+* ASP.NET Web Forms
+* HTML5
+* CSS3
 * JavaScript
 * SQL
-* Visual Studio
+* Microsoft Visual Studio
 
 ---
 
 ## Skills Demonstrated
 
-* Full-stack application development
-* Database design
-* Object-Oriented Programming
-* CRUD operations
-* User interface development
-* Database integration
-* Software analysis and design
-* Git and GitHub
+* Full-Stack Web Development
+* Object-Oriented Programming (OOP)
+* Database Design and Management
+* CRUD Operations
+* User Authentication
+* Front-End Development
+* Back-End Development
+* Software Analysis and Design
+* Problem Solving
+* Version Control using Git and GitHub
 
 ---
 
 ## Project Structure
 
 ```text
-Eco-Events-Management-System/
+Eco-Events-Solutions/
 │
-├── Source Code
-├── Database
-├── Documentation
-├── Images
-└── README.md
+├── README.md
+├── Dashboard.png
+├── Homepage.png
+├── REPORTS.png
+├── SQL.png
+├── SampleCode.png
+├── Schema.png
+├── Screenshot (143).png
+├── SignUp.png
+└── Source Code
 ```
+
+---
+
+## Screenshots
+
+### Homepage
+
+![Homepage](Homepage.png)
+
+### Dashboard
+
+![Dashboard](Dashboard.png)
+
+### Sign Up
+
+![Sign Up](SignUp.png)
+
+### Database Schema
+
+![Database Schema](Schema.png)
+
+### SQL Implementation
+
+![SQL Implementation](SQL.png)
+
+### Sample Code
+
+![Sample Code](SampleCode.png)
+
+### Reports
+
+![Reports](REPORTS.png)
+
+### Additional System Screenshot
+
+![System Screenshot](Screenshot%20\(143\).png)
 
 ---
 
@@ -72,25 +127,28 @@ Eco-Events-Management-System/
 * Dashboard analytics
 * Mobile responsiveness
 * Cloud deployment
+* Event reminder notifications
+* Interactive reporting dashboard
 
 ---
 
-## Screenshots
+## Learning Outcomes
 
-### Login Page
-![Login](login.png)
+Through this project, I gained practical experience in:
 
-### Dashboard
-![Dashboard](dashboard.png)
+* Designing and developing web applications
+* Building responsive user interfaces
+* Database modelling and SQL development
+* Implementing CRUD functionality
+* Software analysis and system design
+* Applying sustainable technology concepts to real-world business problems
 
-### Event Management
-![Event Management](events.png)
-
-### Database Design
-![Database](database.png)
+---
 
 ## Author
 
 **Dinah Zame**
 
 Bachelor of Science in Information Technology Graduate
+
+GitHub: https://github.com/dinah-brz
